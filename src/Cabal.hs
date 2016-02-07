@@ -38,7 +38,7 @@ cabalCheck = do
     checkCabalFile
     checkReadme
     checkGhci
-    checkTravis
+    -- checkTravis
 
 
 checkGhci :: IO ()
